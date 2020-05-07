@@ -1,0 +1,1 @@
+somthing about ts and vue
